@@ -1,7 +1,4 @@
 #1. Create a greeting for your program.
-from tkinter import N
-
-
 print('Welcome to The Band Name Generator')
 #2. Ask the user for the city that they grew up in.
 city = input("What's the name of the city you grew up in? \n")
