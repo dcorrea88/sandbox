@@ -1,4 +1,4 @@
 *.csv
 personal_projects/
 *testfi.py
-.gitignore
+*.gitignore
